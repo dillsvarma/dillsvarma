@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dillsvarma
+- 👋 Hi, I’m srinivasa d patsamatla
 - 👀 I’m interested in python, automation, machine learning
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on machine learning projects
